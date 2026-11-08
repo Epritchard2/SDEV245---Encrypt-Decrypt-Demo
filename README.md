@@ -22,7 +22,7 @@ Module 2 Assignment
 
 Both methods are used to protect information, but they handle encryption differently. Symmetric encryption is faster and works better for larger amounts of data, while asymmetric encryption allows information to be encrypted using a public key without sharing the private key. I know that both applications are usually used in conjunction as well.
 
-You will first need install the cryptography library:
+You will first need to install the cryptography library:
 
 python -m pip install cryptography
 
